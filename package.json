@@ -1,14 +1,10 @@
 {
   "dependencies": {
     "langchain": "^1.5.1"
-  }
+  },
   "name": "shopmate",
   "version": "1.0.0",
   "scripts": {
     "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "...",
-    "mongoose": "..."
   }
 }
